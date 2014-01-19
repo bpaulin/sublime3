@@ -1,3 +1,6 @@
 Cache
 Index
 Local
+*.cache
+Packages/User/Package Control.last-run
+Installed Packages
