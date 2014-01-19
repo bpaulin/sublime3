@@ -1,9 +1,10 @@
 {
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"font_face": "Source Code Pro",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Soda Dark.sublime-theme",
-	"soda_folder_icons": true
+	"soda_folder_icons": true,
+	"theme": "Soda Dark.sublime-theme"
 }

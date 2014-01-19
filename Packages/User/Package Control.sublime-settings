@@ -2,6 +2,15 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"BracketHighlighter",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"Gitignore",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal",
 		"Theme - Soda"
 	]
 }
