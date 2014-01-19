@@ -1,4 +1,5 @@
 {
     "theme": "Soda Dark 3.sublime-theme",
-    "soda_folder_icons": true
+    "soda_folder_icons": true,
+    "font_face": "Source Code Pro",
 }

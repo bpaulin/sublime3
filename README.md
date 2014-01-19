@@ -1,9 +1,9 @@
 # Requirements:
 
-install [Package Control]
+* [Package Control](https://sublime.wbond.net/)
+* [Source Code Pro](https://github.com/adobe/Source-Code-Pro)
 
 # Packages
 
 * [Theme - Soda](https://github.com/buymeasoda/soda-theme)
 
-[Package Control]: https://sublime.wbond.net/
