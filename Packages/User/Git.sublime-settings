@@ -1,0 +1,4 @@
+{
+    "flow": true,
+    "git_flow_command": "/usr/local/bin/git-flow"
+}
